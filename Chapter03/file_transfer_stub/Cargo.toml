@@ -5,4 +5,4 @@ authors = []
 edition = "2018"
 
 [dependencies]
-actix-web = "1"
+actix-web = { version = "4.0.0-rc.3" }
